@@ -27,7 +27,7 @@ instead of closing the game. To make the program go public instead, make the fol
 &nbsp;
 
 The program sends the lobby in once the lobby timer reaches 2:00. Everyone has to be ready by then in order for the lobby
-to enter successfully. Otherwise, lobby will be lost. 
+to enter successfully. Otherwise, the lobby will be lost. 
 
 &nbsp;
 
