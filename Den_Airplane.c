@@ -202,7 +202,7 @@ static const command step[] = {
 	{ B,           1},
 	
 	//waiting for cutscene to finish and ready for next y-comm
-	{ NOTHING,     1500},
+	{ NOTHING,     750},
 	
 	//loop restarts
 	
