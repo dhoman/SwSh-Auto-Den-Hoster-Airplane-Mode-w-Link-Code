@@ -12,7 +12,7 @@ These files are meant to replace the "Joystick.c" file and the "makefile" in the
 
 **IMPORTANT PROGRAM INFORMATION**
 
-I used an Ardino UNO R3 for this program with an atmega16u2 MCU. This program will work on docked switches.
+I used an Ardino UNO R3 for this program with an atmega16u2 MCU. This program DOES NOT WORK on docked switches.
 
 &nbsp;
 
